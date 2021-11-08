@@ -1,4 +1,4 @@
-## Barracuda CloudGen Firewall Custom Scripts for Migration
+## Barracuda CloudGen Firewall (CGF) Custom Scripts for Migration
 ## Introduction
 The Azure Resource Manager (ARM) templates in this repo will deploy single instance or HA clusters of Barracuda CloudGen Firewall F Series virtual machines in an existing VNET. The templates are barebone configurations and exclude Azure Load Balancers (ELB/ILB), route tables and the applicable variables.
 
